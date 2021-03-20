@@ -3,9 +3,9 @@ As we know Python is a suitable language for script writers and developers. Letâ
 Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called SpeechRecognition to allow us to convert audio into text for further processing.
 In this article, we will look at converting large or long audio files into text using the SpeechRecognition API in python.</br>
 Python packages needed</br>
-1)SpeechRecognition
-2)Datetime
-3)pyttsx3
-4)wikipedia
-5)Web Browser
-6)smptlib
+1)SpeechRecognition</br>
+2)Datetime</br>
+3)pyttsx3</br>
+4)wikipedia</br>
+5)Web Browser</br>
+6)smptlib</br>
