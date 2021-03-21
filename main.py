@@ -20,8 +20,12 @@ def speak(audio):
 
 def wishMe():
     hour = int(datetime.datetime.now().hour)
-    if hour>=0 and hour<12:
-        speak("Hey Omkar!")
+    
+    if hour>=0 and hour<6:
+        speak("Hey Owl")
+        
+    elif hour>=6 and hour<12:
+        speak("Good Morning")
 
     elif hour>=12 and hour<18:
         speak("Good Afternoon")
