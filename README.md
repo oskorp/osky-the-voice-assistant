@@ -9,3 +9,11 @@ In this article, we will look at converting large or long audio files into text 
 4)wikipedia</br>
 5)Web Browser</br>
 6)smptlib</br>
+7)PyJokes</br>
+8)pyautogui</br>
+9)translate</br>
+
+<h1>Solve PyAudio Error</h1>
+Step 1:pip install pywin 
+step 2:Install PyAudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+step 3:pipwin install pyaudio
