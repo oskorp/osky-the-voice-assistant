@@ -166,7 +166,7 @@ if __name__ == "__main__":
 
 
 
-'''
+
 main()
 
 root_1 = tk.ThemedTk()
@@ -182,4 +182,3 @@ quit4 = ttk.Button(root_1, text="EXIT", command=root_1.destroy)
 quit4.config(width=22)
 quit4.pack(padx=10, pady=20)
 root_1.mainloop()
-'''
