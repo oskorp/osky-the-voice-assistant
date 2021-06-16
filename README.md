@@ -12,7 +12,7 @@ In this article, we will look at converting large or long audio files into text 
 7)PyJokes</br>
 8)pyautogui</br>
 9)translate</br>
-
+10)WOlFRAME API
 <h1>Solve PyAudio Error</h1>
 Step 1:pip install pywin </br>
 Step 2:Install PyAudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio </br>
